@@ -1,10 +1,9 @@
 ---
-title: 'My First Post'
-path: 'first-post'
-tags: ['first-post', 'dummy']
-featuredImage: './cover.jpg'
-excerpt: 'It's my first post'
-created: 2020-05-17
+title: "My First Post"
+path: "first-post"
+tags: ["first-post", "dummy"]
+featuredImage: "./cover.jpg"
+excerpt: "It's my first post"
 ---
 
 ## Cruciabere instruit
