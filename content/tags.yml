@@ -1,4 +1,4 @@
 - name: Demo
-  color: "#007acc"
+  color: "#000000"
   icon: ./assets/images/logo.png
   featured: true
