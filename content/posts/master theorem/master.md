@@ -58,6 +58,22 @@ where a ≥ 1,b > 1,k ≥ 0 and p is a real number, then:
 
 **Solution:**	T(n)	=	4T(n/2)	 +	n2	=>	T(n) = Θ(n2logn)	(Master	Theorem	Case 2.a) 
 
+**Problem-3**   T(n)	=	T(n/2)	 +	n2 
+
+**Solution:**	T(n)	=	T(n/2)	+	n2	=>	Θ(n2)	(Master	Theorem	Case	3.a) 
+
+**Problem-4**   T(n)	=	2nT(n/2)	+	n^n 
+
+**Solution:** 	T(n)	=	2nT(n/2)	+	n^n	=>	Does	not	apply	(a	is	not	constant) 
+
+**Problem-5**   T(n)	=	16T(n/4)	+	n 
+
+**Solution:**	T(n)	=	16T	(n/4)	+	n	=>	T(n)	=	Θ(n2)	(Master	Theorem	Case	1) 
+
+**Problem-6**   T(n)	=	2T(n/2)	+	nlogn
+
+**Solution:**	T(n)	=	2T(n/2)	+	nlogn	=>	T(n)	=	Θ(nlog2n)	(Master	Theorem	Case	2.a)
+
 Above problems helps to understand how to solve divide and conquer theorem by just puttin the vlaues and find the recureence relation.
 Divide and Conquer Master Theorem does not apply on negative numbers.
 
