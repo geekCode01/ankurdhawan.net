@@ -12,7 +12,7 @@ updated: 2020-05-26
 In this article we will learn about **recursion** , whicly is commonly used and also its relative to **backtracking**.
 
 # 1 What is Recursion
-Firstly, we understand meaning of **recusrion**. Recursion is basically a process which call itself again and again until we terminate it.
+Firstly, we understand meaning of **recursion**. Recursion is basically a process which call itself again and again until we terminate it.
 Function that calls itself is called *recursive*. 
 
 ## 1.1 Why Recursion
