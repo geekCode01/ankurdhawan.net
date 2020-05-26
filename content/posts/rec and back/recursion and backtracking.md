@@ -3,7 +3,7 @@ title: "Recursion and Backtracking"
 path: "/recursion-and-backtracking"
 tags: ["Recursion and Backtracking"]
 featuredImage: "./pablo-downloading.png"
-excerpt: Introduction to Master Theorem for Divide and Conquer and method to solve theorem.
+excerpt: Introduction to Recursion and Backtracking.
 created: 2020-05-26
 updated: 2020-05-26
 ---
