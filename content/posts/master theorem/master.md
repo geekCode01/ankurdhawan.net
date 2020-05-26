@@ -20,7 +20,7 @@ As an e.g **merge sort**
 
 This gives the running time equation:
 ```
-T(n)=2T(n/2) + O(n);
+T(n) = 2T(n/2) + O(n);
 ```
 
 
@@ -36,16 +36,16 @@ T(n) = aT(n/b) + f(n)
 
 where a ≥ 1,b > 1,k ≥ 0 and p is a real number, then:
 
-1.if a > b^k, then T(n) = θ(nlogba)
+1.if a > b^k, then T(n) = θ(nlog^(a) base b)
 
 2.if a = b^k, then
-(a) if p > -1, then T(n) = θ(nlogba logp+1n)
-(b) if p = -1, then T(n) = θ(nlogba loglogn)
-(c) if p < -1, then T(n) = θ(nlogba)
+(a) if p > -1, then T(n) = θ(n^(log)^(a)base b log^(p+1)n)
+(b) if p = -1, then T(n) = θ(n^(log)^(a)base b ) loglogn)
+(c) if p < -1, then T(n) = θ(n^(log)^(a)base b )
 
 3.if a < b^k, then
-(a) if p >= 0, then T(n) = θ(nk logpn)
-(b) if p < 0, then T(n) = θ(nk)
+(a) if p >= 0, then T(n) = θ(n^k log^(p)n)
+(b) if p < 0, then T(n) = θ(n^k)
 ```
 
 ## 1.1 Divide and Conquer Master Theorem: Problems & Solution
