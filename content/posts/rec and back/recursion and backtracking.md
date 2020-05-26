@@ -72,3 +72,7 @@ int fact(int n){
 * The	Knapsack	Problem 
 * Generalized	Strings 
 * Hamiltonian	Cycles	[refer	to	Graphs	chapter] 
+
+
+If you found this article please share it with your friends. I am also available on **Twitter** [Ankur Dhawan](https://twitter.com/AnkurDh86416728) 
+For my daily updates you can also join our **whatsapp group clicking on** [join](https://chat.whatsapp.com/KTmCktGLllxDU7DgtLVcu7)
