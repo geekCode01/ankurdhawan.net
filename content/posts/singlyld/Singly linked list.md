@@ -3,7 +3,7 @@ title: "Singly Linked List"
 path: "/singly-linked-list"
 tags: ["singly linked lists"]
 featuredImage: "./eastwood-page-not-found.png"
-excerpt: Basic introduction to some Data Structures topics.
+excerpt: Introduction to Singly Linked List which is very vast and important topic.
 created: 2020-05-27
 updated: 2020-05-27
 ---

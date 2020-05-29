@@ -43,7 +43,7 @@ In	this	case,	traverse	the	list	till	the	end	and	insert	the	new	node.
 * New	node	right	pointer	points	to	NULL	and	left	pointer	points	to	the	end	of	the	list.
 * Update	right	pointer	of	last	node	to	point	to	new	node.
 
-## 1.2.3 Inserting a Node in Doubly Linked List at the Ending
+## 1.2.3 Inserting a Node in Doubly Linked List at the Middle
 
 It traverse	the	list	to	the	position	node	and	insert	the	new	node
 
@@ -100,7 +100,7 @@ In doubly linked list we can delete node at the beginning by just changing the l
 * Create a temporary node which points to the same node as that of head
 * Move the head nodes pointer to the next node and change the heads left pointer to NULL.Then free the temporary node.
 
-## 1.3.2 Deleting a Node in Doubly Linked List at the Beginning
+## 1.3.2 Deleting a Node in Doubly Linked List at the ending
 
 We can delete the node from the end of the linked list in three steps
 * Traverse the list and maintain the address of previous in previous node. When we reach the end we have two pointers , one pointing to the tail and other pointing to the node before the tail.

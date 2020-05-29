@@ -13,6 +13,7 @@ In	singly	linked	lists	and	doubly	linked	lists,	the	end	of	lists	are	indicated	w
 
 ```java
 class node{
+    public:
     int data;
     node *next;
 }
@@ -104,6 +105,7 @@ The	only	difference	between	inserting	a	node	at	the	beginning	and	at	the	end	is	
 * Update	the	next	pointer	of	the	new	node	with	the	head	node	and	also	traverse	the	list until	the	tail.	That	means	in	a	circular	list	we	should	stop	at	the	node	which	is	its previous	node	in	the	list
 * Update	the	previous	head	node	in	the	list	to	point	to	the	new	node.
 * Make	the	new	node	as	the	head.
+
 ```java
 void insertAtBeg(node **head,int data){
     node *current=*head;
@@ -156,6 +158,7 @@ void DeleteFirst(node **head){
 }
 ```
 >**Time	Complexity**:	O(n),	for	scanning	the	complete	list	of	size	n. 
+
 >**Space Complexity**:	O(1),	for	a	temporary	variable
 
 ## 1.5 Deleting	the	Last	Node	in	a	Circular	Linked	List
