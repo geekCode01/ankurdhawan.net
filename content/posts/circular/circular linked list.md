@@ -3,7 +3,7 @@ title: "Circular Linked Lists"
 path: "/circular-linked-lists"
 tags: ["Circular linked list"]
 featuredImage: "./fogg-fatal-error-3.png"
-excerpt: Introduction and all operations of Doubly Linked List.
+excerpt: Introduction and all operations of Circular Linked List.
 created: 2020-05-28
 updated: 2020-05-28
 ---
