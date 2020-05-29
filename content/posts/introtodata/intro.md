@@ -73,7 +73,7 @@ There are two main criteria for judging  the  merits  of algorithms:
 # 1.5 Goal of the Analysis of Algorithms
 The goal of the analysis of algorithms is to compare algorithms in running time but also in terms of other factors (e.g., memory etc.)
 
-### Typed of Analysis
+### Types of Analysis
 
 There are three types of analysis of an algorithm:
 * **Worst case**
