@@ -1,8 +1,8 @@
 ---
 title: "Sorting"
 path: "/sorting"
-tags: ["stack"]
-featuredImage: "./error.png"
+tags: ["sorting"]
+featuredImage: "./sor.png"
 excerpt: Sorting	is	an	algorithm	that	arranges	the	elements	of	a	list	in	a	certain	order
 created: 2020-05-28
 updated: 2020-05-28
@@ -204,7 +204,7 @@ Heapsort	is	a	comparison-based	sorting	algorithm	and	is	part	of	the	selection	so
 
 >**Average case complexity**:Θ(nlogn)
 
->**Worst case complexity**: Θ(n) total , Θ(1) auxiliary
+>**Worst case complexity**: Θ(n) total , Θ(1) auxili ary
 
 ## 1.9 Quick Sort
 Quick	sort	is	an	example	of	a	divide-and-conquer	algorithmic	technique.	It	is	also	called partition	exchange	sort.	It	uses	recursive	calls	for	sorting	the	elements,	and	it	is	one	of	the famous	algorithms	among	comparison-based	sorting	algorithms.

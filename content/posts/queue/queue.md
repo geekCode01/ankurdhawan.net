@@ -3,7 +3,7 @@ title: "Queue"
 path: "/queue"
 tags: ["Queue"]
 featuredImage: "./no.png"
-excerpt: Basic introduction to some Data Structures topics.
+excerpt: Basic introduction to Queue Data Structure.
 created: 2020-05-30
 updated: 2020-05-30
 ---
