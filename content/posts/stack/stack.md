@@ -333,7 +333,7 @@ Time Complexity of IsFullStack()       :   O(1)
 Time Complexity of DeleteStack()       :   O(n)
 ```
 
-## 1.7 Comparing	Array	Implementation	and	Linked	List	Implementation
+## 1.5 Comparing	Array	Implementation	and	Linked	List	Implementation
 
 **Array	Implementation** 
 * Operations	take	constant	time. 
