@@ -4,8 +4,8 @@ path: "/sorting"
 tags: ["sorting"]
 featuredImage: "./sor.png"
 excerpt: Sorting	is	an	algorithm	that	arranges	the	elements	of	a	list	in	a	certain	order
-created: 2020-05-28
-updated: 2020-05-28
+created: 2020-05-26
+updated: 2020-05-26
 ---
 
 # 1 Sorting

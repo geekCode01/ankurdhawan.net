@@ -4,8 +4,8 @@ path: "/tree"
 tags: ["Tree"]
 featuredImage: "./1234.png"
 excerpt: Introduction to Tree Data Structure.
-created: 2020-05-30
-updated: 2020-05-30
+created: 2020-06-01
+updated: 2020-06-01
 ---
 
 # 1 What is Tree

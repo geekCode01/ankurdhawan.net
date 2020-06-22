@@ -4,8 +4,8 @@ path: "/about-me"
 tags: ["About"]
 featuredImage: "./IMG-20200522-WA0069.jpg"
 excerpt: This is my personal blog where I'm sharing my all knowledge.
-created: 2020-05-24
-updated: 2020-05-24
+created: 2020-05-23
+updated: 2020-05-23
 ---
 
 

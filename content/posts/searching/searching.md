@@ -4,8 +4,8 @@ path: "/searching"
 tags: ["searching"]
 featuredImage: "./error.png"
 excerpt: Searching is the process of finding an item from the collection of items.
-created: 2020-05-31
-updated: 2020-05-31
+created: 2020-05-27
+updated: 2020-05-27
 ---
 # 1 Searching
 Searching is the process of finding an item from the collection of items.	The	items	may	be	stored	as	records	in	a	database,	simple	data	elements	in arrays,	text	in	files,	nodes	in	trees,	vertices	and	edges	in	graphs,	or	they	may	be	elements	of	other search	spaces.

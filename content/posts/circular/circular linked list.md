@@ -4,8 +4,8 @@ path: "/circular-linked-lists"
 tags: ["Circular linked list"]
 featuredImage: "./fogg-fatal-error-3.png"
 excerpt: Introduction and all operations of Circular Linked List.
-created: 2020-05-28
-updated: 2020-05-28
+created: 2020-05-30
+updated: 2020-05-30
 ---
 
 ## 1 Circular Linked List

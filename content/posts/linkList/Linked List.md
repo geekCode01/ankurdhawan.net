@@ -4,8 +4,8 @@ path: "/linked-list"
 tags: ["linked lists"]
 featuredImage: "./pablo-finance.png"
 excerpt: Introduction to Linked Lists.
-created: 2020-05-27
-updated: 2020-05-27
+created: 2020-05-30
+updated: 2020-05-30
 ---
 
 # 1 Linked Lists

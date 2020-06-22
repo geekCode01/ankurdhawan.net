@@ -4,8 +4,8 @@ path: "/doubly-linked-lists"
 tags: ["Doubly linked list"]
 featuredImage: "./fogg-searching-1.png"
 excerpt: Introduction and all operations of Doubly Linked List.
-created: 2020-05-27
-updated: 2020-05-27
+created: 2020-05-30
+updated: 2020-05-30
 ---
 
 # 1 Doubly Linked Lists

@@ -4,8 +4,8 @@ path: "/graph"
 tags: ["Graph"]
 featuredImage: "./graph1.png"
 excerpt: Introduction to Graph Data Structure.
-created: 2020-05-24
-updated: 2020-05-24
+created: 2020-06-02
+updated: 2020-06-02
 ---
 
 # Introduction

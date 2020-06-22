@@ -4,8 +4,8 @@ path: "/master-theorem-for-divide-and-conquer"
 tags: ["Mater-Theorem"]
 featuredImage: "./pluto-bad-gateway.png"
 excerpt: Introduction to Master Theorem for Divide and Conquer and method to solve theorem.
-created: 2020-05-26
-updated: 2020-05-26
+created: 2020-05-25
+updated: 2020-05-25
 ---
 
 # 1 Master Theorem for Divide and Conquer

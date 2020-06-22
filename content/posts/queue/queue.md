@@ -4,8 +4,8 @@ path: "/queue"
 tags: ["Queue"]
 featuredImage: "./no.png"
 excerpt: Basic introduction to Queue Data Structure.
-created: 2020-05-30
-updated: 2020-05-30
+created: 2020-05-29
+updated: 2020-05-29
 ---
 
 # 1 What is Queue?
