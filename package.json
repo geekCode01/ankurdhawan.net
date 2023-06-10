@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@nehalist/gatsby-theme-nehalem": "^1.0.3",
-    "gatsby": "^2.13.55",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-dark-mode": "^1.1.2",
     "gatsby-plugin-use-dark-mode": "^1.1.2",
     "gatsby-styled-components-dark-mode": "^1.2.0",
